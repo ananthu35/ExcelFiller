@@ -1,2 +1,2 @@
 # ExcelFiller
-It is an automated tool that copies the data in multiple text file to a single excel.
+It is a tool (form application in c#) that automates the copying of data in multiple text file to a single excel in different rows.
